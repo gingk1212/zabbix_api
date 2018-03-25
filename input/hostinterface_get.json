@@ -1,0 +1,4 @@
+{
+    "output": ["hostid", "ip"],
+    "sortfield": "ip"
+}
